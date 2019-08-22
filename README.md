@@ -55,4 +55,4 @@ The `DomainEvent` deals with the `eventType` and `eventData`. For each `ProductT
 To keep it simple for the solution the `Order` and `Customer` Domain share the same `Address`.
 - On events, dealing with `ProductType` that do not exist.
 - Get a better understanding of nullability in Kotlin to create a better approach for nullable properties.
-- Improvements on unit tests, get a better understanding of Junit assertions and verifications to crete a better unit test anotomy with 3 phases (Arrange, Act and Assert)
+- Improvements on unit tests, get a better understanding of Junit assertions and verifications to create a better unit test anotomy with 3 phases (Arrange, Act and Assert)
